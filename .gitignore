@@ -1,0 +1,12 @@
+# LabVIEW temporary and user-specific files
+*.aliases
+*.lvlps
+*.lvd
+*.bak
+*.exe
+*.llb
+*.tmp
+
+# Mac/Windows OS generated files
+.DS_Store
+Thumbs.db
