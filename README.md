@@ -6,7 +6,7 @@
 
 ### 交通灯控制系统（TrafficLightSystem）
 
-- 描述：红绿黄三灯定时切换，含数码倒计时显示。
+- 描述：红绿黄三灯定时切换，含倒计时，根据人流车流自动调整红绿灯时间等
 - 路径：`/TrafficLightSystem`
 
 ### 温度监测系统（TemperatureMonitor）
