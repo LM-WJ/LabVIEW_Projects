@@ -4,20 +4,25 @@
 
 ## 项目列表
 
-### 🔴 交通灯控制系统（TrafficLightSystem）
+### 交通灯控制系统（TrafficLightSystem）
 
 - 描述：红绿黄三灯定时切换，含数码倒计时显示。
 - 路径：`/TrafficLightSystem`
 
-### 🌡️ 温度监测系统（TemperatureMonitor）
+### 温度监测系统（TemperatureMonitor）
 
 - 描述：模拟温度采集与报警系统。
 - 路径：`/TemperatureMonitor`
 
 ### 电容充放电测试系统（CapacitorPerformanceTest）
 
-- 描述：模拟电容测试充电放电时电压变化（半成品）。
+- 描述：模拟电容测试充电放电时电压变化。
 - 路径：`/CapacitorPerformanceTest`
+
+### 无人机外部环境监测 （UAV external environment monitoring）
+
+- 描述：根据数据文件回放温湿度和加速度曲线。
+- 路径：`/UAV external environment monitoring`
 
 ## 使用方式
 
